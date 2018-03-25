@@ -1,5 +1,5 @@
 ---
-title: 结合 github 和 hexo 搭建个人博客
+title: 结合github和hexo搭建个人博客
 categoty: 关于编程
 tag: 博客搭建
 date: 2017/12/13
