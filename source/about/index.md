@@ -1,4 +1,4 @@
 ---
-title: 新建页面about
+title: 关于我
 layout: page
 ---
